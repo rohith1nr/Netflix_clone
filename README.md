@@ -30,7 +30,7 @@ Users should be able to:
 <img width="957" alt="Screenshot 2023-10-21 123700" src="https://github.com/rohith1nr/Netflix_clone/assets/111863509/1873f427-63a1-4884-ad1b-417aeb45356c">
 
 
-### Link
+### Links
 
 - Live Execution : 
 
