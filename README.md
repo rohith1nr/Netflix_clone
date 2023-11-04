@@ -9,7 +9,6 @@
 
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [My process](#my-process)
 - [Built with](#built-with)
 - [Author](#author)
@@ -30,8 +29,6 @@ Users should be able to:
 <img width="959" alt="Screenshot 2023-10-21 123616" src="https://github.com/rohith1nr/Netflix_clone/assets/111863509/dcd9fa6c-2501-4c0f-9b52-70717ec850b6">
 <img width="957" alt="Screenshot 2023-10-21 123700" src="https://github.com/rohith1nr/Netflix_clone/assets/111863509/1873f427-63a1-4884-ad1b-417aeb45356c">
 
-
-### Links
 
 - Live Execution : 
 
